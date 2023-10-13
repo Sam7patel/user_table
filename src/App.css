@@ -1,0 +1,11 @@
+body {
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+}
+
+.App {
+  text-align: center; /* Center content in the middle of the page */
+  padding: 20px;
+}
+
+
